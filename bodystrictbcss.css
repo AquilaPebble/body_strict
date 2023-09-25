@@ -1,0 +1,39 @@
+.bg-cust-black {
+    background-color: black;
+}
+.opacity-95 {
+    opacity: 95%;
+}
+.buttonCust {
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.signinlogin {
+    padding: 14px 28px;
+    font-weight: bold;
+    font-size: 19px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.navButtons {
+    border-color: #59baff;
+    background-color: #59baff;
+    color: black;
+}
+.navButtons:hover {
+    border-color: #157fca;
+    background-color: #157fca;
+    color: rgb(0, 0, 0);
+}
+.title {
+    font-size: 50px;
+}
+.subtitle {
+    font-size: 35px;
+}
+.border-dark {
+    border: 4px solid black;
+    border-radius: 5px;
+}
